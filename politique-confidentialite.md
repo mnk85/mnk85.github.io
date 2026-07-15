@@ -1,6 +1,6 @@
 layout: page
 title: "Politique de confidentialité"
-permalink: /politique de confidentialité
+permalink: /politique-confidentialite
 
 
 <!DOCTYPE html>
